@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d50b5d56-9cd3-471e-bc54-ece8ad75fc4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/webSiteController/client/src/img/blackGrad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webSiteController/client/src/img/chalkTic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webSiteController/client/src/img/lightsOutDoor1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webSiteController/client/src/img/megaTTT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webSiteController/client/src/img/ticTac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webSiteController/client/src/img/ticTacToe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webSiteController/client/src/components/TicTacToe/ticTacToeGameController.js" beforeDir="false" afterPath="$PROJECT_DIR$/webSiteController/client/src/components/TicTacToe/ticTacToeGameController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webSiteController/client/src/components/lightsOut/LightsOut.js" beforeDir="false" afterPath="$PROJECT_DIR$/webSiteController/client/src/components/lightsOut/LightsOut.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webSiteController/client/src/components/lightsOut/LightsOutPlaceHolder.js" beforeDir="false" afterPath="$PROJECT_DIR$/webSiteController/client/src/components/lightsOut/LightsOutPlaceHolder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webSiteController/client/src/components/megaTicTacToe/MegaTTTLobby.js" beforeDir="false" afterPath="$PROJECT_DIR$/webSiteController/client/src/components/megaTicTacToe/MegaTTTLobby.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HKiVYbOMsnyvbPMXimduvscvno" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Drewt/OneDrive/Documents/GitHub/cs470SeniorProject/webSiteController/client/public&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Drewt\OneDrive\Documents\GitHub\cs470SeniorProject\webSiteController\client\public" />
+      <recent name="C:\Users\Drewt\OneDrive\Documents\GitHub\cs470SeniorProject\webSiteController\client\src\components\megaTicTacToe" />
+      <recent name="C:\Users\Drewt\OneDrive\Documents\GitHub\cs470SeniorProject\webSiteController\client\src\components\TicTacToe" />
+      <recent name="C:\Users\Drewt\OneDrive\Documents\GitHub\cs470SeniorProject\webSiteController\client\src\components\lightsOut" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Drewt\OneDrive\Documents\GitHub\cs470SeniorProject\webSiteController\client\src\img" />
+      <recent name="C:\Users\Drewt\OneDrive\Documents\GitHub\cs470SeniorProject\webSiteController\client\src\components\lightsOut\img" />
+      <recent name="C:\Users\Drewt\OneDrive\Documents\GitHub\cs470SeniorProject\webSiteController\client\src\components\lightsOut\lightsOut" />
+      <recent name="C:\Users\Drewt\OneDrive\Documents\GitHub\cs470SeniorProject\webSiteController\client\src" />
+      <recent name="C:\Users\Drewt\OneDrive\Documents\GitHub\cs470SeniorProject\webSiteController\client\src\components\BattleShip" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d50b5d56-9cd3-471e-bc54-ece8ad75fc4e" name="Changes" comment="" />
+      <created>1668040199605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668040199605</updated>
+      <workItem from="1668040201329" duration="1090000" />
+      <workItem from="1668291682659" duration="279000" />
+      <workItem from="1668375804975" duration="2000" />
+      <workItem from="1668631525881" duration="6705000" />
+      <workItem from="1669021877648" duration="143000" />
+      <workItem from="1669022122409" duration="1581000" />
+      <workItem from="1669042975131" duration="18307000" />
+      <workItem from="1669148411611" duration="632000" />
+      <workItem from="1669518035260" duration="14977000" />
+      <workItem from="1669599710117" duration="3493000" />
+      <workItem from="1669604459376" duration="6950000" />
+      <workItem from="1669625765307" duration="34165000" />
+      <workItem from="1669770519382" duration="8246000" />
+      <workItem from="1669833034615" duration="4543000" />
+      <workItem from="1669837677190" duration="23569000" />
+      <workItem from="1669936695311" duration="969000" />
+      <workItem from="1669938997211" duration="18180000" />
+      <workItem from="1670038573943" duration="12169000" />
+      <workItem from="1670098754330" duration="15130000" />
+      <workItem from="1670227882911" duration="5889000" />
+      <workItem from="1670264598748" duration="4363000" />
+      <workItem from="1670271150473" duration="13830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

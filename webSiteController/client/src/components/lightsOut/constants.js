@@ -1,0 +1,5 @@
+
+const NUM_ROWS = 6;
+const NUM_COLUMNS = 6;
+const START_LIGHT_ODDS = 0.27;
+export { NUM_ROWS, NUM_COLUMNS, START_LIGHT_ODDS };

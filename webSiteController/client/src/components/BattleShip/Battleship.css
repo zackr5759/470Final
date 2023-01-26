@@ -1,0 +1,111 @@
+#board{
+  width: 600px;
+  height: 800px;
+  text-align: center;
+  align-items: center;
+}
+
+#test{
+  width: 100%;
+  height: 100%;
+  align-items: center;
+}
+
+#rotate{
+  position: relative;
+  top: -460px;
+  left: -380px;
+}
+
+#readyCheck{
+  position: relative;
+  top:-565px;
+  left:-350px;
+  align-items: center;
+}
+
+#startButton{
+  position: absolute;
+  top:780px;
+  left:46%;
+}
+
+.battleBoard{
+  margin: 0px;
+}
+#C1{
+  cursor: url(ships/Ship1.png),auto;
+}
+
+#C2{
+  cursor: url(ships/Ship2.png),auto;
+}
+
+#C3{
+  cursor: url(ships/Ship3.png),auto;
+}
+
+#C4{
+  cursor: url(ships/Ship4.png),auto;
+}
+
+#C5{
+  cursor: url(ships/Ship5.png),auto;
+}
+
+#yourBoard{
+  position: absolute;
+  top:12vh;
+  left:1vw;
+}
+
+#enemyBoard{
+  position: absolute;
+  top:12vh;
+  right:1vw;
+}
+
+.left{
+  position: relative;
+  left:300px;
+  z-index: 1;
+}
+
+@media (min-width: 1480px) {
+  #yourBoard{
+    position: absolute;
+    top:12vh;
+    left:10vw;
+  }
+  
+  #enemyBoard{
+    position: absolute;
+    top:12vh;
+    right:10vw;
+  }
+  
+  .left{
+    position: relative;
+    left:33vw;
+    z-index: 1;
+  }
+}
+
+#one, #two, #three, #four, #five{
+  background-color: white;
+}
+
+
+#Check1{
+  background-image: url('X.png');
+}
+
+#Check2{
+  background-image: url('check.png');
+}
+
+#hiddenSprite{
+  position: absolute;
+  height: 0px;
+  width: 0px;
+}

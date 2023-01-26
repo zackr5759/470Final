@@ -1,0 +1,106 @@
+.cell{
+    background-repeat: no-repeat;
+    background-size:cover;
+    z-index: 0;
+    height: 60px;
+    width: 60px;
+}
+
+#Ship1_1{
+    background-image: url("ships/Ship1/Ship1_1.png");
+}
+
+#Ship1_2{
+    background-image: url("ships/Ship1/Ship1_2.png");
+}
+
+
+#Ship2_1{
+    background-image: url("ships/Ship2/Ship2_1.png");
+}
+
+#Ship2_2{
+    background-image: url("ships/Ship2/Ship2_2.png");
+}
+
+#Ship2_3{
+    background-image: url("ships/Ship2/Ship2_3.png");
+}
+
+
+#Ship3_1{
+    background-image: url("ships/Ship3/Ship3_1.png");
+}
+
+#Ship3_2{
+    background-image: url("ships/Ship3/Ship3_2.png");
+}
+
+#Ship3_3{
+    background-image: url("ships/Ship3/Ship3_3.png");
+}
+
+
+#Ship4_1{
+    background-image: url("ships/Ship4/Ship4_1.png");
+}
+
+#Ship4_2{
+    background-image: url("ships/Ship4/Ship4_2.png");
+}
+
+#Ship4_3{
+    background-image: url("ships/Ship4/Ship4_3.png");
+}
+
+#Ship4_4{
+    background-image: url("ships/Ship4/Ship4_4.png");
+}
+
+
+#Ship5_1{
+    background-image: url("ships/Ship5/Ship5_1.png");
+}
+
+#Ship5_2{
+    background-image: url("ships/Ship5/Ship5_2.png");
+}
+
+#Ship5_3{
+    background-image: url("ships/Ship5/Ship5_3.png");
+}
+
+#Ship5_4{
+    background-image: url("ships/Ship5/Ship5_4.png");
+}
+#Ship5_5{
+    background-image: url("ships/Ship5/Ship5_5.png");
+}
+#checkmark{
+    background-image: url("check.png");
+}
+#xmark{
+    background-image: url("X.png");
+    background-size: cover;
+}
+.rotate1{
+    transform: rotate(90deg);
+}
+.rotate2{
+    transform: rotate(180deg);
+}
+.rotate3{
+    transform: rotate(270deg);
+}
+
+.invisible{
+    visibility: hidden;
+}
+
+.water{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    z-index: -1;
+}
+

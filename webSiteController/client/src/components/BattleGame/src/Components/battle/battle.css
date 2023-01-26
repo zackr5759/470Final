@@ -1,0 +1,115 @@
+#battle1{
+    background-image: url("backgrounds/Battleground1.png");
+}
+
+#battle2{
+    background-image: url("backgrounds/Battleground2.png");
+}
+
+#battle3{
+    background-image: url("backgrounds/Battleground3.png");
+}
+
+#battle4{
+    background-image: url("backgrounds/Battleground4.png");
+}
+
+.battle{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    z-index: 1;
+}
+
+.enemy{
+    position: fixed;
+    right:0%;
+    top:8vh;
+}
+
+.currFighter{
+    position: fixed;
+    left: 0%;
+    top:8vh;
+}
+
+.fightScene{
+    position: relative;
+    width: 20vw;
+    height: 20vh;
+    top: 40vh;
+    left:40vw;
+}
+
+.eSprite{
+    position: fixed;
+    height: 30vh;
+    width: 16vw;
+    top:38vh;
+    left: 44.5vw;
+    z-index: 0;
+    transform: scaleX(-1);
+}
+
+.fSprite{
+    position: fixed;
+    height: 30vh;
+    width: 16vw;
+    top:38vh;
+    left: 38.5vw;
+    z-index: 0;
+}
+
+.floor{ 
+    position: fixed;
+    width: 30vw;
+    height:25vh;
+    top:40vh;
+    left: 39vw;
+    z-index: -1;
+
+}
+
+#logButtons{
+    position: fixed;
+    width:15vw;
+    top:35%;
+    left: 42.5%;
+    right: 25%;
+    text-align: center;
+    visibility: visible;
+}
+
+#logButtonsH{
+    position: fixed;
+    width:15vw;
+    top:35%;
+    left: 42.5%;
+    right: 25%;
+    text-align: center;
+    visibility: hidden;
+}
+
+.options{
+    border: solid black 1px;
+    margin: 1px;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.options:hover{
+    border: solid black 1px;
+    margin: 1px;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    color:black;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.invisible{
+    position: absolute;
+    height: 0px;
+    width:0px;
+}

@@ -1,0 +1,136 @@
+.center{
+    left:25%;
+    right:25%;
+}
+
+.gradient{
+    background: rgb(241,221,190);
+    background: linear-gradient(90deg, rgba(241,221,190,1) 0%, rgba(255,255,255,0) 50%, rgba(241,221,190,1) 100%);
+}
+
+.sprite{
+    margin: auto;
+    height: 55%;
+    width: 55%;
+}
+
+.hidden{
+    position: relative;
+    left:0.3%;
+    height: 156px;
+    width: 250px;
+    margin-right: 4px;
+    margin-bottom:3px;
+    font-size: 0;
+    border: none;
+    background: none;
+    border-radius: 5px;
+    
+}
+
+.hidden2{
+    position: relative;
+    left:0.3%;
+    height: 156px;
+    width: 250px;
+    margin-right: 4px;
+    margin-bottom:3px;
+    font-size: 0;
+    border: none;
+    background: none;
+    border-radius: 5px;
+    
+}
+
+.hidden:hover{
+    border: solid #2196f3 2px;
+    
+}
+
+#log{
+    height: 9vh;
+    width: 30vw;
+    position: fixed;
+    top:65%;
+    left: 25%;
+    right: 25%;
+    text-align: left;
+    padding: 1px;
+    border: solid black 2px;
+    background-color: white;
+    color: black;
+    overflow: hidden;
+    text-align: left;
+    margin: auto;
+    scroll-snap-align: end;
+
+}
+
+.selector{
+    position: fixed;
+    top:20%;
+    left: 25%;
+    right: 25%;
+    text-align: center;
+    color:black;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+#hiddenSprite{
+    height: 0px;
+    width: 0px;
+  }
+
+.infoBar{
+    position: fixed;
+    top:8vh;
+    left: 25%;
+    right: 25%;
+    text-align: center;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.party{
+    margin: auto;
+    position:fixed;
+    bottom:10px;
+    left:25%;
+    right:25%;
+    z-index: 0;
+
+}
+
+.invisible{
+    position: absolute;
+    height: 0px;
+    width:0px;
+}
+
+.battleButton{
+    text-align: center;
+    position:fixed;
+    bottom:30vh;
+    left:25%;
+    right:25%;
+}
+
+.start{
+    text-align: center;
+    position:fixed;
+    top:20vh;
+    left:25%;
+    right:25%;
+}
+
+.test{
+    border: red 10px;
+}
+.shop{
+    justify-content: center;
+    margin: auto;
+    position:fixed;
+    top:65px;
+    left:25%;
+    right:25%;
+
+}

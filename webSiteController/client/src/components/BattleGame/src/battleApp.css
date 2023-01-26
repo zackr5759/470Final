@@ -1,0 +1,8 @@
+.App{
+  position: absolute;
+  background: rgb(245,229,205);
+  background: linear-gradient(90deg, rgba(245,229,205,1) 0%, rgba(255,255,255,1) 50%, rgba(245,229,205,1) 100%);
+  width: 100vw;
+  height:100vh;
+  overflow: hidden;
+}
